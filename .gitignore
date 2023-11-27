@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.vs/demoapp101/FileContentIndex/7e816375-2fe7-44d6-ad60-0de72f886f94.vsidx
+*.vsidx
+/.vs/demoapp101/v17/.wsuo
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs
